@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "name": "Walking Cradles",
+        "description": "Show off your classic side with the Frances pump \r\nfrom Walking Cradles. A Tiny Pillows footbed keeps you supported \r\nfrom work to an elegant evening out.",
+        "price": "94",
+        "imageExtension": ".svg",
+        "id": 1
+    },
+    {
+        "name": "Cordone Indico Sneaker",
+        "description": "Reach new heights in the Cordones Indio. \r\nThese low-cut lace up platform sneakers have a cushioned insole \r\nand vulcanized construction created for increased flexibility \r\nand durability.\r\n\r\nLow-cut casual lace up\r\nCanvas upper\r\n100% vegan\r\nComfort insole\r\nVulcanized construction\r\nCustom rubber outsole design\r\nApprox. 1 1/9\" heel",
+        "price": "54",
+        "imageExtension": ".svg",
+        "id": 2
+    },
+    {
+        "name": "Nike Air Max 95 Essential Recycled Felt",
+        "description": "The Nike Air Max 95 Essential Recycled Felt combines the best of head-turning style \r\nwith Nike\u2019s innovative ability to create the best shoes using recycled materials. \r\nThe upper features a blend of felt, mesh, and synthetic leather. Developed for \r\nperformance running, the shoe also features Nike Air cushioning and a robust \r\ndesign that enhances durability. The Nike Grind rubber outsole, also made using \r\nrecycled materials, is sturdy and offers great traction. The rich layers and \r\ntextures of the shoe are inspired by the human body; the midsole representing \r\nthe spine, the panels as muscles, and the laces as ribs. Let your human DNA \r\nmatch your running DNA with these new sneakers.",
+        "price": "144",
+        "imageExtension": ".svg",
+        "id": 3
+    },
+    {
+        "name": "Botas Lug Sneaker",
+        "description": "A sole that shows up for you. The Botas Lug pairs a durable, utilitarian-inspired \r\nlug outsole with our best-selling lace-up silhouette.\r\n\r\nBlack textile upper\r\nCustom TOMS rubber outsole\r\nOrthoLite\u00ae Eco LT insole for lightweight cushioning \r\nmade with plant derived and recycled materials.\r\nLace-up closure\r\nApprox. 1 3/8\" heel",
+        "price": "48",
+        "imageExtension": ".svg",
+        "id": 4
+    },
+    {
+        "name": "Mallory Flat",
+        "description": "A timeless loafer silhouette with a modern flare. The Mallory is a casual, \r\nall-occasion flat with all-day comfort.\r\n\r\nTan mini cheetah print\r\nLeather and sude upper\r\nPremium canvas sockliner\r\nThermoplastic rubber outsole\r\nOrthoLite\u00ae Eco X40 insole for high-rebound, long-term cushioning made with \r\nplant derived and recycled materials.\r\nNon-removable insole\r\nApprox. 1\" heel",
+        "price": "79",
+        "imageExtension": ".svg",
+        "id": 5
+    },
+    {
+        "name": "Nike Reposto",
+        "description": "New model, new features, but same comfort and even better style\r\nA new silhouette with familiar features! The Nike Air Max 2090 is a \r\ntribute to the legendary Air Max 90, which has dominated the sneaker \r\nmarket for several years. So it is clear that the new style of the \r\nAir Max 2090 is even more striking! A cool overlay look determines \r\nthe design of the 2090 and is a real eye-catcher thanks to skillfully \r\nset seam details that also stand out in color. Of course, the \r\nvisible Air element in the sole of an Air Max should not be missing!\r\n A structured heel area and a practical heel loop complete the look of the Nike Max 2090",
+        "price": "69",
+        "imageExtension": ".svg",
+        "id": 6
+    }
+]
